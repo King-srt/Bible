@@ -1,0 +1,46 @@
+[
+  {
+    // `id`: unique story id.
+    // Use stable snake_case and keep the `story_` prefix.
+    // This id is reused for Firestore doc id and image naming.
+    "id": "story_example_name",
+
+    // `title`: localized story title.
+    // `en` for English, `id` for Indonesian.
+    "title": {
+      "en": "Example Story Title",
+      "id": "Judul Cerita Contoh"
+    },
+
+    // `content`: full story text in both languages.
+    // Write in readable paragraphs using `
+
+` between sections.
+    "content": {
+      "en": "First paragraph in English.
+
+Second paragraph in English.",
+      "id": "Paragraf pertama dalam Bahasa Indonesia.
+
+Paragraf kedua dalam Bahasa Indonesia."
+    },
+
+    // `scripture_references`: one or more Bible references for this story.
+    // Use a list so one story can point to multiple passages or books.
+    "scripture_references": {
+      "en": ["Genesis 3:1-10", "Genesis 4:1-8"],
+      "id": ["Kejadian 3:1-10", "Kejadian 4:1-8"]
+    },
+
+    // `testament`: only `old` or `new`.
+    "testament": "old",
+
+    // `character_ids`: all characters that appear in this story.
+    // Every id here should already exist or be created in `characters.json`.
+    "character_ids": ["char_example_one", "char_example_two"],
+
+    // `tags`: simple lowercase keywords for search and grouping.
+    // Keep them short and consistent.
+    "tags": ["faith", "courage", "prayer"]
+  }
+]

@@ -1,0 +1,82 @@
+{
+  "@@locale": "id",
+  "appTitle": "Aplikasi Cerita Alkitab",
+  "homeFeatured": "Cerita Unggulan",
+  "homeOldTestament": "Perjanjian Lama",
+  "homeNewTestament": "Perjanjian Baru",
+  "homeCharacterHighlight": "Tokoh Unggulan",
+  "homeWelcomeTitle": "Temukan kisah yang tinggal dalam hati.",
+  "homeWelcomeSubtitle": "Baca cerita, jelajahi tokoh, dan beralih mulus antara Bahasa Inggris dan Indonesia.",
+  "homeQuickActions": "Akses Cepat",
+  "homeActionOld": "Perjanjian Lama",
+  "homeActionNew": "Perjanjian Baru",
+  "homeHeroEyebrow": "Mode Cerita",
+  "homeReadNow": "Baca Sekarang",
+  "homeExploreCharacter": "Jelajahi Tokoh",
+  "storyListTitleOld": "Cerita Perjanjian Lama",
+  "storyListTitleNew": "Cerita Perjanjian Baru",
+  "characterListTitle": "Tokoh",
+  "bookmarksTitle": "Penanda",
+  "bookmarksEmpty": "Belum ada cerita yang disimpan.",
+  "bookmarksSavedCount": "{count} cerita tersimpan",
+  "@bookmarksSavedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "characterProfilesCount": "{count} profil siap dijelajahi",
+  "@characterProfilesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "navHome": "Beranda",
+  "navCharacters": "Tokoh",
+  "navBookmarks": "Penanda",
+  "navSettings": "Pengaturan",
+  "searchTitle": "Pencarian",
+  "searchHint": "Cari cerita atau tokoh",
+  "searchEmptyQuery": "Ketik kata kunci untuk mulai mencari.",
+  "searchStories": "Cerita",
+  "searchCharacters": "Tokoh",
+  "searchNoStories": "Tidak ada cerita yang cocok.",
+  "searchNoCharacters": "Tidak ada tokoh yang cocok.",
+  "storyDetailRelatedCharacters": "Tokoh Terkait",
+  "characterDetailStrengths": "Kekuatan",
+  "characterDetailWeaknesses": "Kelemahan",
+  "characterDetailRelatedStories": "Cerita Terkait",
+  "storyDetailBookmarkAdd": "Tambah Penanda",
+  "storyDetailBookmarkRemove": "Hapus Penanda",
+  "settingsTitle": "Pengaturan",
+  "languageLabel": "Bahasa",
+  "languageEnglish": "Inggris",
+  "languageIndonesian": "Indonesia",
+  "loading": "Memuat...",
+  "storiesEmpty": "Belum ada cerita.",
+  "charactersEmpty": "Belum ada tokoh.",
+  "viewAll": "Lihat Semua",
+  "genericErrorTitle": "Terjadi kendala",
+  "genericErrorMessage": "Konten belum bisa dimuat saat ini. Silakan coba lagi.",
+  "retryLabel": "Coba Lagi",
+  "authPreparingSession": "Menyiapkan sesi Anda...",
+  "authFailedMessage": "Autentikasi belum bisa disiapkan saat ini.",
+  "contentPreparingLibrary": "Menyiapkan pustaka Anda...",
+  "contentFailedMessage": "Aplikasi belum bisa menyiapkan konten lokal saat ini.",
+  "settingsSubtitle": "Atur bahasa, sinkronisasi konten, dan informasi aplikasi.",
+  "settingsPreferences": "Preferensi",
+  "settingsContent": "Konten",
+  "settingsAbout": "Tentang",
+  "settingsRefreshContent": "Segarkan Konten",
+  "settingsRefreshContentSubtitle": "Periksa Firestore untuk cerita dan tokoh terbaru.",
+  "settingsRefreshUpdated": "Konten berhasil diperbarui.",
+  "settingsRefreshUpToDate": "Konten Anda sudah versi terbaru.",
+  "settingsStoriesVersion": "Versi Cerita",
+  "settingsCharactersVersion": "Versi Tokoh",
+  "storyDetailScriptureReferences": "Referensi Alkitab",
+  "characterDetailViewGenealogy": "Lihat Silsilah",
+  "genealogyEmpty": "Belum ada silsilah."
+}

@@ -1,0 +1,41 @@
+[
+  {
+    // `id`: stable genealogy id.
+    // Example: `genealogy_jesus`.
+    "id": "genealogy_example",
+
+    // `title`: localized title for the genealogy screen.
+    "title": {
+      "en": "Genealogy of Example",
+      "id": "Silsilah Contoh"
+    },
+
+    // `description`: short intro shown above the lineage.
+    "description": {
+      "en": "A short explanation of this genealogy.",
+      "id": "Penjelasan singkat mengenai silsilah ini."
+    },
+
+    // `root_character_id`: main character this genealogy belongs to.
+    "root_character_id": "char_example",
+
+    // `entries`: ordered lineage list.
+    // `character_id` is optional. Fill it only when the character exists in `characters.json`.
+    "entries": [
+      {
+        "label": {
+          "en": "Abraham",
+          "id": "Abraham"
+        },
+        "character_id": "char_abraham"
+      },
+      {
+        "label": {
+          "en": "Isaac",
+          "id": "Ishak"
+        },
+        "character_id": "char_isaac"
+      }
+    ]
+  }
+]

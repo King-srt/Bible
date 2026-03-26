@@ -1,0 +1,2228 @@
+[
+  {
+    "id": "char_jesus",
+    "name": {
+      "en": "Jesus",
+      "id": "Yesus"
+    },
+    "testament": "new",
+    "summary": {
+      "en": "The central figure of the New Testament, teaching and serving with compassion.",
+      "id": "Tokoh utama Perjanjian Baru yang mengajar dan melayani dengan kasih."
+    },
+    "strengths": {
+      "en": [
+        "Compassion",
+        "Wisdom",
+        "Authority"
+      ],
+      "id": [
+        "Kasih",
+        "Hikmat",
+        "Otoritas"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "None"
+      ],
+      "id": [
+        "Tidak ada"
+      ]
+    },
+    "related_character_ids": [
+      "char_peter",
+      "char_paul"
+    ],
+    "identity": {
+      "en": "Teacher, Messiah, and central figure of the New Testament",
+      "id": "Guru, Mesias, dan tokoh utama Perjanjian Baru"
+    },
+    "life_span": {
+      "en": "c. 4 BC-AD 30",
+      "id": "sekitar 4 SM-30 M"
+    }
+  },
+  {
+    "id": "char_peter",
+    "name": {
+      "en": "Peter",
+      "id": "Petrus"
+    },
+    "testament": "new",
+    "summary": {
+      "en": "One of Jesus' closest disciples, bold and often impulsive.",
+      "id": "Salah satu murid terdekat Yesus, berani dan sering bertindak cepat."
+    },
+    "strengths": {
+      "en": [
+        "Boldness",
+        "Loyalty"
+      ],
+      "id": [
+        "Keberanian",
+        "Kesetiaan"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "Fear under pressure"
+      ],
+      "id": [
+        "Takut saat tertekan"
+      ]
+    },
+    "related_character_ids": [
+      "char_jesus"
+    ],
+    "life_span": {
+      "en": "c. AD 1–c. AD 64",
+      "id": "sekitar 1 M–sekitar 64 M"
+    }
+  },
+  {
+    "id": "char_david",
+    "name": {
+      "en": "David",
+      "id": "Daud"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "A shepherd, warrior, and king known for his trust in God.",
+      "id": "Seorang gembala, pejuang, dan raja yang dikenal karena kepercayaannya kepada Tuhan."
+    },
+    "strengths": {
+      "en": [
+        "Faith",
+        "Courage",
+        "Leadership"
+      ],
+      "id": [
+        "Iman",
+        "Keberanian",
+        "Kepemimpinan"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "Impulsiveness"
+      ],
+      "id": [
+        "Tergesa-gesa"
+      ]
+    },
+    "related_character_ids": [
+      "char_goliath"
+    ],
+    "identity": {
+      "en": "Shepherd, warrior, and king of Israel",
+      "id": "Gembala, pejuang, dan raja Israel"
+    },
+    "life_span": {
+      "en": "c. 1040-970 BC",
+      "id": "sekitar 1040-970 SM"
+    }
+  },
+  {
+    "id": "char_goliath",
+    "name": {
+      "en": "Goliath",
+      "id": "Goliat"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "A Philistine warrior remembered for pride and intimidation.",
+      "id": "Seorang prajurit Filistin yang dikenal karena kesombongan dan ancamannya."
+    },
+    "strengths": {
+      "en": [
+        "Physical strength"
+      ],
+      "id": [
+        "Kekuatan fisik"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "Pride"
+      ],
+      "id": [
+        "Kesombongan"
+      ]
+    },
+    "related_character_ids": [
+      "char_david"
+    ]
+  },
+  {
+    "id": "char_daniel",
+    "name": {
+      "en": "Daniel",
+      "id": "Daniel"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "A prophet known for wisdom and unwavering devotion to God.",
+      "id": "Seorang nabi yang dikenal karena hikmat dan kesetiaannya kepada Tuhan."
+    },
+    "strengths": {
+      "en": [
+        "Wisdom",
+        "Faithfulness"
+      ],
+      "id": [
+        "Hikmat",
+        "Kesetiaan"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "None highlighted in this sample"
+      ],
+      "id": [
+        "Tidak disorot dalam contoh ini"
+      ]
+    },
+    "related_character_ids": []
+  },
+  {
+    "id": "char_saul",
+    "name": {
+      "en": "Saul",
+      "id": "Saul"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "Saul was the first king of Israel, chosen to lead the people. He began with humility but later disobeyed God, leading to his downfall.",
+      "id": "Saul adalah raja pertama Israel yang dipilih untuk memimpin bangsa itu. Ia memulai dengan rendah hati tetapi kemudian tidak taat kepada Tuhan, yang menyebabkan kejatuhannya."
+    },
+    "strengths": {
+      "en": [
+        "leadership",
+        "bravery",
+        "decisiveness"
+      ],
+      "id": [
+        "kepemimpinan",
+        "keberanian",
+        "ketegasan"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "disobedience",
+        "jealousy",
+        "impulsiveness"
+      ],
+      "id": [
+        "ketidaktaatan",
+        "kecemburuan",
+        "tindakan tergesa-gesa"
+      ]
+    },
+    "related_character_ids": [
+      "char_david",
+      "char_samuel"
+    ],
+    "life_span": {
+      "en": "c. 1079 BC–c. 1007 BC",
+      "id": "sekitar 1079 SM–sekitar 1007 SM"
+    }
+  },
+  {
+    "id": "char_paul",
+    "name": {
+      "en": "Paul",
+      "id": "Paulus"
+    },
+    "testament": "new",
+    "summary": {
+      "en": "Paul was once a persecutor of Christians who became a devoted apostle of Jesus. He traveled widely to spread the gospel and wrote many letters in the New Testament.",
+      "id": "Paulus dulunya penganiaya orang Kristen yang kemudian menjadi rasul Yesus. Ia melakukan perjalanan luas untuk memberitakan Injil dan menulis banyak surat dalam Perjanjian Baru."
+    },
+    "strengths": {
+      "en": [
+        "zeal",
+        "perseverance",
+        "teaching"
+      ],
+      "id": [
+        "semangat",
+        "ketekunan",
+        "pengajaran"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "past persecution",
+        "stubbornness",
+        "harshness"
+      ],
+      "id": [
+        "masa lalu sebagai penganiaya",
+        "keras kepala",
+        "ketegasan berlebihan"
+      ]
+    },
+    "related_character_ids": [
+      "char_peter",
+      "char_barnabas"
+    ],
+    "life_span": {
+      "en": "c. AD 5–c. AD 64",
+      "id": "sekitar 5 M–sekitar 64 M"
+    }
+  },
+  {
+    "id": "char_noah",
+    "name": {
+      "en": "Noah",
+      "id": "Nuh"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "Noah was a righteous man chosen by God to survive the great flood. He built an ark and preserved his family and animals from destruction.",
+      "id": "Nuh adalah orang benar yang dipilih Tuhan untuk selamat dari air bah besar. Ia membangun bahtera dan menyelamatkan keluarganya serta hewan dari kehancuran."
+    },
+    "strengths": {
+      "en": [
+        "obedience",
+        "faith",
+        "patience"
+      ],
+      "id": [
+        "ketaatan",
+        "iman",
+        "kesabaran"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "human weakness",
+        "later drunkenness"
+      ],
+      "id": [
+        "kelemahan manusia",
+        "kemabukan setelahnya"
+      ]
+    },
+    "related_character_ids": [
+      "char_shem",
+      "char_ham",
+      "char_japheth"
+    ]
+  },
+  {
+    "id": "char_people_of_babel",
+    "name": {
+      "en": "People of Babel",
+      "id": "Orang-orang Babel"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "The people of Babel united to build a tower reaching the heavens. Their pride led God to confuse their language and scatter them across the earth.",
+      "id": "Orang-orang Babel bersatu untuk membangun menara yang mencapai langit. Kesombongan mereka membuat Tuhan mengacaukan bahasa mereka dan menyebarkan mereka ke seluruh bumi."
+    },
+    "strengths": {
+      "en": [
+        "unity",
+        "ambition",
+        "cooperation"
+      ],
+      "id": [
+        "persatuan",
+        "ambisi",
+        "kerja sama"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "pride",
+        "rebellion",
+        "self-glorification"
+      ],
+      "id": [
+        "kesombongan",
+        "pemberontakan",
+        "mencari kemuliaan sendiri"
+      ]
+    },
+    "related_character_ids": []
+  },
+  {
+    "id": "char_moses",
+    "name": {
+      "en": "Moses",
+      "id": "Musa"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "Moses was chosen by God to lead the Israelites out of Egypt. He delivered God's law and guided the people through the wilderness.",
+      "id": "Musa dipilih Tuhan untuk memimpin bangsa Israel keluar dari Mesir. Ia menyampaikan hukum Tuhan dan membimbing mereka di padang gurun."
+    },
+    "strengths": {
+      "en": [
+        "leadership",
+        "faith",
+        "humility"
+      ],
+      "id": [
+        "kepemimpinan",
+        "iman",
+        "kerendahan hati"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "anger",
+        "self-doubt"
+      ],
+      "id": [
+        "kemarahan",
+        "keraguan diri"
+      ]
+    },
+    "related_character_ids": [
+      "char_aaron",
+      "char_pharaoh"
+    ]
+  },
+  {
+    "id": "char_aaron",
+    "name": {
+      "en": "Aaron",
+      "id": "Harun"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "Aaron was Moses' brother and served as his spokesperson before Pharaoh. He became the first high priest of Israel.",
+      "id": "Harun adalah saudara Musa dan menjadi juru bicaranya di hadapan Firaun. Ia kemudian menjadi imam besar pertama Israel."
+    },
+    "strengths": {
+      "en": [
+        "supportive",
+        "communication",
+        "leadership"
+      ],
+      "id": [
+        "mendukung",
+        "komunikasi",
+        "kepemimpinan"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "peer pressure",
+        "compromise"
+      ],
+      "id": [
+        "mudah terpengaruh",
+        "kompromi"
+      ]
+    },
+    "related_character_ids": [
+      "char_moses",
+      "char_pharaoh"
+    ]
+  },
+  {
+    "id": "char_pharaoh",
+    "name": {
+      "en": "Pharaoh",
+      "id": "Firaun"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "Pharaoh was the ruler of Egypt who refused to let the Israelites go. His hardened heart led to the plagues and eventual downfall.",
+      "id": "Firaun adalah raja Mesir yang menolak membebaskan bangsa Israel. Hatinya yang keras membawa pada tulah dan kehancuran."
+    },
+    "strengths": {
+      "en": [
+        "authority",
+        "power",
+        "determination"
+      ],
+      "id": [
+        "otoritas",
+        "kekuatan",
+        "keteguhan"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "pride",
+        "stubbornness",
+        "cruelty"
+      ],
+      "id": [
+        "kesombongan",
+        "keras kepala",
+        "kekejaman"
+      ]
+    },
+    "related_character_ids": [
+      "char_moses",
+      "char_aaron"
+    ]
+  },
+  {
+    "id": "char_abraham",
+    "name": {
+      "en": "Abraham",
+      "id": "Abraham"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "Abraham was called by God to leave his homeland and become the father of many nations. His faith was counted as righteousness.",
+      "id": "Abraham dipanggil Tuhan untuk meninggalkan tanah kelahirannya dan menjadi bapa banyak bangsa. Imannya diperhitungkan sebagai kebenaran."
+    },
+    "strengths": {
+      "en": [
+        "faith",
+        "obedience",
+        "trust"
+      ],
+      "id": [
+        "iman",
+        "ketaatan",
+        "kepercayaan"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "fear",
+        "impatience"
+      ],
+      "id": [
+        "ketakutan",
+        "kurang sabar"
+      ]
+    },
+    "related_character_ids": [
+      "char_isaac"
+    ]
+  },
+  {
+    "id": "char_jacob",
+    "name": {
+      "en": "Jacob",
+      "id": "Yakub"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "Jacob was the son of Isaac and became the father of the twelve tribes of Israel. His life was marked by struggle, transformation, and a deep encounter with God.",
+      "id": "Yakub adalah anak Ishak dan menjadi bapa dari dua belas suku Israel. Hidupnya penuh pergumulan, perubahan, dan perjumpaan mendalam dengan Tuhan."
+    },
+    "strengths": {
+      "en": [
+        "perseverance",
+        "faith",
+        "determination"
+      ],
+      "id": [
+        "ketekunan",
+        "iman",
+        "keteguhan"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "deception",
+        "fear",
+        "favoritism"
+      ],
+      "id": [
+        "penipuan",
+        "ketakutan",
+        "pilih kasih"
+      ]
+    },
+    "related_character_ids": [
+      "char_isaac",
+      "char_esau",
+      "char_joseph"
+    ]
+  },
+  {
+    "id": "char_joseph",
+    "name": {
+      "en": "Joseph",
+      "id": "Yusuf"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "Joseph was the favored son of Jacob who was sold into slavery but rose to power in Egypt. He became known for his wisdom and forgiveness.",
+      "id": "Yusuf adalah anak kesayangan Yakub yang dijual sebagai budak tetapi kemudian menjadi penguasa di Mesir. Ia dikenal karena hikmat dan pengampunannya."
+    },
+    "strengths": {
+      "en": [
+        "wisdom",
+        "integrity",
+        "forgiveness"
+      ],
+      "id": [
+        "hikmat",
+        "integritas",
+        "pengampunan"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "youthful pride",
+        "naivety"
+      ],
+      "id": [
+        "kesombongan masa muda",
+        "keluguan"
+      ]
+    },
+    "related_character_ids": [
+      "char_jacob",
+      "char_pharaoh"
+    ]
+  },
+  {
+    "id": "char_joshua",
+    "name": {
+      "en": "Joshua",
+      "id": "Yosua"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "Joshua was the successor of Moses who led Israel into the Promised Land. He was known for his strong faith and leadership in battle.",
+      "id": "Yosua adalah penerus Musa yang memimpin Israel masuk ke Tanah Perjanjian. Ia dikenal karena iman yang kuat dan kepemimpinannya dalam peperangan."
+    },
+    "strengths": {
+      "en": [
+        "leadership",
+        "courage",
+        "obedience"
+      ],
+      "id": [
+        "kepemimpinan",
+        "keberanian",
+        "ketaatan"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "overconfidence",
+        "limited consultation"
+      ],
+      "id": [
+        "terlalu percaya diri",
+        "kurang meminta petunjuk"
+      ]
+    },
+    "related_character_ids": [
+      "char_moses",
+      "char_caleb"
+    ]
+  },
+  {
+    "id": "char_gideon",
+    "name": {
+      "en": "Gideon",
+      "id": "Gideon"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "Gideon was a judge of Israel who led a small army to defeat the Midianites. His story shows how God works through weakness.",
+      "id": "Gideon adalah hakim Israel yang memimpin pasukan kecil untuk mengalahkan orang Midian. Kisahnya menunjukkan bagaimana Tuhan bekerja melalui kelemahan."
+    },
+    "strengths": {
+      "en": [
+        "faith",
+        "obedience",
+        "humility"
+      ],
+      "id": [
+        "iman",
+        "ketaatan",
+        "kerendahan hati"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "doubt",
+        "fear",
+        "hesitation"
+      ],
+      "id": [
+        "keraguan",
+        "ketakutan",
+        "keragu-raguan"
+      ]
+    },
+    "related_character_ids": [
+      "char_midianites"
+    ]
+  },
+  {
+    "id": "char_isaac",
+    "name": {
+      "en": "Isaac",
+      "id": "Ishak"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "Isaac was the promised son of Abraham and Sarah. He carried on God's covenant and lived a relatively quiet but faithful life.",
+      "id": "Ishak adalah anak perjanjian dari Abraham dan Sara. Ia melanjutkan perjanjian Tuhan dan menjalani hidup yang tenang namun setia."
+    },
+    "strengths": {
+      "en": [
+        "faith",
+        "peacefulness",
+        "obedience"
+      ],
+      "id": [
+        "iman",
+        "kelemahlembutan",
+        "ketaatan"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "passivity",
+        "favoritism"
+      ],
+      "id": [
+        "pasif",
+        "pilih kasih"
+      ]
+    },
+    "related_character_ids": [
+      "char_abraham",
+      "char_jacob",
+      "char_esau"
+    ]
+  },
+  {
+    "id": "char_elijah",
+    "name": {
+      "en": "Elijah",
+      "id": "Elia"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "Elijah was a prophet who boldly confronted idolatry in Israel. He witnessed powerful miracles and experienced both courage and deep discouragement.",
+      "id": "Elia adalah nabi yang dengan berani menentang penyembahan berhala di Israel. Ia menyaksikan mukjizat besar dan mengalami keberanian serta keputusasaan."
+    },
+    "strengths": {
+      "en": [
+        "boldness",
+        "faith",
+        "zeal"
+      ],
+      "id": [
+        "keberanian",
+        "iman",
+        "semangat"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "fear",
+        "isolation",
+        "discouragement"
+      ],
+      "id": [
+        "ketakutan",
+        "kesendirian",
+        "keputusasaan"
+      ]
+    },
+    "related_character_ids": [
+      "char_elisha",
+      "char_ahab",
+      "char_jezebel"
+    ]
+  },
+  {
+    "id": "char_shadrach",
+    "name": {
+      "en": "Shadrach",
+      "id": "Sadrakh"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "Shadrach was one of the three Hebrew men who refused to worship a golden statue in Babylon. He trusted God and was miraculously saved from the fiery furnace.",
+      "id": "Sadrakh adalah salah satu dari tiga orang Ibrani yang menolak menyembah patung emas di Babel. Ia percaya kepada Tuhan dan diselamatkan secara ajaib dari perapian."
+    },
+    "strengths": {
+      "en": [
+        "faith",
+        "courage",
+        "loyalty"
+      ],
+      "id": [
+        "iman",
+        "keberanian",
+        "kesetiaan"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "human fear",
+        "limited influence"
+      ],
+      "id": [
+        "ketakutan manusia",
+        "pengaruh terbatas"
+      ]
+    },
+    "related_character_ids": [
+      "char_meshach",
+      "char_abednego",
+      "char_nebuchadnezzar"
+    ]
+  },
+  {
+    "id": "char_meshach",
+    "name": {
+      "en": "Meshach",
+      "id": "Mesakh"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "Meshach stood alongside his friends in refusing to bow to the king's idol. His faith remained firm even under the threat of death.",
+      "id": "Mesakh berdiri bersama teman-temannya menolak sujud kepada patung raja. Imannya tetap teguh meskipun menghadapi ancaman kematian."
+    },
+    "strengths": {
+      "en": [
+        "faith",
+        "unity",
+        "boldness"
+      ],
+      "id": [
+        "iman",
+        "persatuan",
+        "keberanian"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "human fear",
+        "dependence on group"
+      ],
+      "id": [
+        "ketakutan manusia",
+        "ketergantungan pada kelompok"
+      ]
+    },
+    "related_character_ids": [
+      "char_shadrach",
+      "char_abednego",
+      "char_nebuchadnezzar"
+    ]
+  },
+  {
+    "id": "char_abednego",
+    "name": {
+      "en": "Abednego",
+      "id": "Abednego"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "Abednego was one of the faithful servants who refused idol worship in Babylon. He was preserved by God in the blazing furnace.",
+      "id": "Abednego adalah salah satu pelayan setia yang menolak penyembahan berhala di Babel. Ia dipelihara Tuhan di dalam perapian yang menyala-nyala."
+    },
+    "strengths": {
+      "en": [
+        "faith",
+        "obedience",
+        "steadfastness"
+      ],
+      "id": [
+        "iman",
+        "ketaatan",
+        "keteguhan"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "human fear",
+        "limited authority"
+      ],
+      "id": [
+        "ketakutan manusia",
+        "otoritas terbatas"
+      ]
+    },
+    "related_character_ids": [
+      "char_shadrach",
+      "char_meshach",
+      "char_nebuchadnezzar"
+    ]
+  },
+  {
+    "id": "char_nebuchadnezzar",
+    "name": {
+      "en": "Nebuchadnezzar",
+      "id": "Nebukadnezar"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "Nebuchadnezzar was the powerful king of Babylon who demanded worship of his image. He later witnessed God's power and acknowledged His authority.",
+      "id": "Nebukadnezar adalah raja Babel yang berkuasa dan menuntut penyembahan terhadap patungnya. Ia kemudian melihat kuasa Tuhan dan mengakui otoritas-Nya."
+    },
+    "strengths": {
+      "en": [
+        "leadership",
+        "authority",
+        "decisiveness"
+      ],
+      "id": [
+        "kepemimpinan",
+        "otoritas",
+        "ketegasan"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "pride",
+        "arrogance",
+        "anger"
+      ],
+      "id": [
+        "kesombongan",
+        "keangkuhan",
+        "kemarahan"
+      ]
+    },
+    "related_character_ids": [
+      "char_shadrach",
+      "char_meshach",
+      "char_abednego",
+      "char_daniel"
+    ],
+    "life_span": {
+      "en": "c. 634 BC–c. 562 BC",
+      "id": "sekitar 634 SM–sekitar 562 SM"
+    }
+  },
+  {
+    "id": "char_lazarus",
+    "name": {
+      "en": "Lazarus",
+      "id": "Lazarus"
+    },
+    "testament": "new",
+    "summary": {
+      "en": "Lazarus was a close friend of Jesus who was raised from the dead after four days. His story became a powerful sign of Jesus' authority over death.",
+      "id": "Lazarus adalah sahabat dekat Yesus yang dibangkitkan dari kematian setelah empat hari. Kisahnya menjadi tanda kuat kuasa Yesus atas maut."
+    },
+    "strengths": {
+      "en": [
+        "faith",
+        "close relationship",
+        "witness"
+      ],
+      "id": [
+        "iman",
+        "hubungan dekat",
+        "kesaksian"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "human limitation",
+        "dependence"
+      ],
+      "id": [
+        "keterbatasan manusia",
+        "ketergantungan"
+      ]
+    },
+    "related_character_ids": [
+      "char_mary",
+      "char_martha",
+      "char_jesus"
+    ]
+  },
+  {
+  "id": "char_mary",
+  "name": {
+    "en": "Mary, Mother of Jesus",
+    "id": "Maria, Ibu Yesus"
+  },
+  "testament": "new",
+  "summary": {
+    "en": "Mary was the mother of Jesus, chosen by God to bear the Messiah. She is known for her humility, obedience, and faithfulness in accepting God's will, even in difficult circumstances.",
+    "id": "Maria adalah ibu Yesus, dipilih oleh Tuhan untuk melahirkan Mesias. Ia dikenal karena kerendahan hati, ketaatan, dan kesetiaannya dalam menerima kehendak Tuhan, bahkan dalam situasi yang sulit."
+  },
+  "strengths": {
+    "en": [
+      "faith",
+      "obedience",
+      "humility",
+      "devotion"
+    ],
+    "id": [
+      "iman",
+      "ketaatan",
+      "kerendahan hati",
+      "pengabdian"
+    ]
+  },
+  "weaknesses": {
+    "en": [
+      "human vulnerability",
+      "sorrow in suffering"
+    ],
+    "id": [
+      "kerentanan sebagai manusia",
+      "dukacita dalam penderitaan"
+    ]
+  },
+  "related_character_ids": [
+    "char_jesus",
+    "char_david",
+    "char_god"
+  ],
+  "life_span": {
+      "en": "c. 18 BC–c. AD 41",
+      "id": "sekitar 18 SM–sekitar 41 M"
+    }
+  },
+  {
+    "id": "char_martha",
+    "name": {
+      "en": "Martha",
+      "id": "Marta"
+    },
+    "testament": "new",
+    "summary": {
+      "en": "Martha was the sister of Mary and Lazarus, known for her service and hospitality. She often focused on practical needs but also expressed strong faith.",
+      "id": "Marta adalah saudara Maria dan Lazarus, dikenal karena pelayanan dan keramahannya. Ia sering fokus pada hal praktis tetapi juga memiliki iman yang kuat."
+    },
+    "strengths": {
+      "en": [
+        "service",
+        "hospitality",
+        "faith"
+      ],
+      "id": [
+        "pelayanan",
+        "keramahan",
+        "iman"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "worry",
+        "distraction"
+      ],
+      "id": [
+        "kekhawatiran",
+        "mudah terdistraksi"
+      ]
+    },
+    "related_character_ids": [
+      "char_mary",
+      "char_lazarus",
+      "char_jesus"
+    ]
+  },
+  {
+    "id": "char_john",
+    "name": {
+      "en": "John",
+      "id": "Yohanes"
+    },
+    "testament": "new",
+    "summary": {
+      "en": "John was one of Jesus' closest disciples, often called the beloved disciple. He later wrote important books in the New Testament.",
+      "id": "Yohanes adalah salah satu murid terdekat Yesus, sering disebut murid yang dikasihi. Ia kemudian menulis kitab-kitab penting dalam Perjanjian Baru."
+    },
+    "strengths": {
+      "en": [
+        "loyalty",
+        "love",
+        "insight"
+      ],
+      "id": [
+        "kesetiaan",
+        "kasih",
+        "pengertian"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "ambition",
+        "intensity"
+      ],
+      "id": [
+        "ambisi",
+        "emosi kuat"
+      ]
+    },
+    "related_character_ids": [
+      "char_james",
+      "char_peter",
+      "char_jesus"
+    ],
+    "life_span": {
+      "en": "c. AD 6–c. AD 100",
+      "id": "sekitar 6 M–sekitar 100 M"
+    }
+  },
+  {
+    "id": "char_judas_iscariot",
+    "name": {
+      "en": "Judas Iscariot",
+      "id": "Yudas Iskariot"
+    },
+    "testament": "new",
+    "summary": {
+      "en": "Judas Iscariot was one of the twelve disciples who betrayed Jesus. His actions led to Jesus' arrest and crucifixion.",
+      "id": "Yudas Iskariot adalah salah satu dari dua belas murid yang mengkhianati Yesus. Tindakannya menyebabkan penangkapan dan penyaliban Yesus."
+    },
+    "strengths": {
+      "en": [
+        "trusted role",
+        "organizational skill"
+      ],
+      "id": [
+        "peran dipercaya",
+        "kemampuan mengelola"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "greed",
+        "betrayal",
+        "deceit"
+      ],
+      "id": [
+        "keserakahan",
+        "pengkhianatan",
+        "tipu daya"
+      ]
+    },
+    "related_character_ids": [
+      "char_jesus",
+      "char_peter",
+      "char_john"
+    ]
+  },
+  {
+    "id": "char_james",
+    "name": {
+      "en": "James",
+      "id": "Yakobus"
+    },
+    "testament": "new",
+    "summary": {
+      "en": "James was one of Jesus' inner circle disciples and the brother of John. He was among the first apostles to be martyred.",
+      "id": "Yakobus adalah salah satu murid inti Yesus dan saudara Yohanes. Ia termasuk rasul pertama yang mati sebagai martir."
+    },
+    "strengths": {
+      "en": [
+        "commitment",
+        "courage",
+        "zeal"
+      ],
+      "id": [
+        "komitmen",
+        "keberanian",
+        "semangat"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "impulsiveness",
+        "ambition"
+      ],
+      "id": [
+        "tindakan tergesa-gesa",
+        "ambisi"
+      ]
+    },
+    "related_character_ids": [
+      "char_john",
+      "char_jesus",
+      "char_peter"
+    ]
+  },
+  {
+    "id": "char_mary_magdalene",
+    "name": {
+      "en": "Mary Magdalene",
+      "id": "Maria Magdalena"
+    },
+    "testament": "new",
+    "summary": {
+      "en": "Mary Magdalene was a devoted follower of Jesus who was freed from evil spirits. She witnessed His crucifixion and was the first to see Him after His resurrection.",
+      "id": "Maria Magdalena adalah pengikut setia Yesus yang dibebaskan dari roh jahat. Ia menyaksikan penyaliban Yesus dan menjadi orang pertama yang melihat-Nya setelah kebangkitan."
+    },
+    "strengths": {
+      "en": [
+        "devotion",
+        "loyalty",
+        "faithfulness"
+      ],
+      "id": [
+        "kesetiaan",
+        "loyalitas",
+        "iman"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "past struggles",
+        "emotional grief"
+      ],
+      "id": [
+        "pergumulan masa lalu",
+        "kesedihan emosional"
+      ]
+    },
+    "related_character_ids": [
+      "char_jesus",
+      "char_peter",
+      "char_john"
+    ]
+  },
+  {
+    "id": "char_disciples",
+    "name": {
+      "en": "The Disciples",
+      "id": "Para Murid"
+    },
+    "testament": "new",
+    "summary": {
+      "en": "The disciples were followers of Jesus chosen to learn from Him and spread His teachings. They played a key role in the early growth of the Christian faith.",
+      "id": "Para murid adalah pengikut Yesus yang dipilih untuk belajar dari-Nya dan menyebarkan ajaran-Nya. Mereka berperan penting dalam pertumbuhan awal iman Kristen."
+    },
+    "strengths": {
+      "en": [
+        "loyalty",
+        "faith",
+        "commitment"
+      ],
+      "id": [
+        "kesetiaan",
+        "iman",
+        "komitmen"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "fear",
+        "doubt",
+        "misunderstanding"
+      ],
+      "id": [
+        "ketakutan",
+        "keraguan",
+        "kesalahpahaman"
+      ]
+    },
+    "related_character_ids": [
+      "char_jesus",
+      "char_peter",
+      "char_john"
+    ]
+  },
+  {
+    "id": "char_king_darius",
+    "name": {
+      "en": "King Darius",
+      "id": "Raja Darius"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "King Darius ruled over Babylon and is known for the story of Daniel in the lions' den. He respected Daniel but was bound by his own decree.",
+      "id": "Raja Darius memerintah Babel dan dikenal dalam kisah Daniel di gua singa. Ia menghormati Daniel tetapi terikat oleh hukumnya sendiri."
+    },
+    "strengths": {
+      "en": [
+        "leadership",
+        "respect for justice",
+        "honesty"
+      ],
+      "id": [
+        "kepemimpinan",
+        "menghargai keadilan",
+        "kejujuran"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "easily influenced",
+        "rigid laws"
+      ],
+      "id": [
+        "mudah dipengaruhi",
+        "hukum yang kaku"
+      ]
+    },
+    "related_character_ids": [
+      "char_daniel"
+    ],
+    "life_span": {
+      "en": "c. 550 BC–486 BC",
+      "id": "sekitar 550 SM–486 SM"
+    }
+  },
+  {
+    "id": "char_ananias",
+    "name": {
+      "en": "Ananias",
+      "id": "Ananias"
+    },
+    "testament": "new",
+    "summary": {
+      "en": "Ananias was a believer in Damascus who was sent by God to restore Saul's sight. He obeyed despite fear and helped Saul begin his new life.",
+      "id": "Ananias adalah seorang percaya di Damsyik yang diutus Tuhan untuk memulihkan penglihatan Saul. Ia taat meski takut dan membantu Saul memulai hidup baru."
+    },
+    "strengths": {
+      "en": [
+        "obedience",
+        "faith",
+        "courage"
+      ],
+      "id": [
+        "ketaatan",
+        "iman",
+        "keberanian"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "fear",
+        "hesitation"
+      ],
+      "id": [
+        "ketakutan",
+        "keraguan"
+      ]
+    },
+    "related_character_ids": [
+      "char_paul"
+    ]
+  },
+  {
+    "id": "char_pilate",
+    "name": {
+      "en": "Pontius Pilate",
+      "id": "Pontius Pilatus"
+    },
+    "testament": "new",
+    "summary": {
+      "en": "Pontius Pilate was the Roman governor who presided over Jesus' trial. Though he found no fault, he allowed the crucifixion under pressure.",
+      "id": "Pontius Pilatus adalah gubernur Romawi yang memimpin pengadilan Yesus. Meski tidak menemukan kesalahan, ia mengizinkan penyaliban karena tekanan."
+    },
+    "strengths": {
+      "en": [
+        "authority",
+        "pragmatism"
+      ],
+      "id": [
+        "otoritas",
+        "pragmatisme"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "fear of crowd",
+        "compromise",
+        "indecision"
+      ],
+      "id": [
+        "takut pada massa",
+        "kompromi",
+        "ketidaktegasan"
+      ]
+    },
+    "related_character_ids": [
+      "char_jesus"
+    ]
+  },
+  {
+    "id": "char_samaritan_woman",
+    "name": {
+      "en": "The Samaritan Woman",
+      "id": "Perempuan Samaria"
+    },
+    "testament": "new",
+    "summary": {
+      "en": "The Samaritan woman met Jesus at a well and had a life-changing conversation. She became one of the first to share His message in her town.",
+      "id": "Perempuan Samaria bertemu Yesus di sumur dan mengalami percakapan yang mengubah hidupnya. Ia menjadi salah satu yang pertama membagikan kabar tentang Yesus di kotanya."
+    },
+    "strengths": {
+      "en": [
+        "honesty",
+        "openness",
+        "boldness"
+      ],
+      "id": [
+        "kejujuran",
+        "keterbukaan",
+        "keberanian"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "past mistakes",
+        "social stigma"
+      ],
+      "id": [
+        "masa lalu kelam",
+        "stigma sosial"
+      ]
+    },
+    "related_character_ids": [
+      "char_jesus"
+    ]
+  },
+  {
+    "id": "char_sarah",
+    "name": {
+      "en": "Sarah",
+      "id": "Sara"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "Sarah was the wife of Abraham and the mother of Isaac. She experienced God's promise of a child in her old age.",
+      "id": "Sara adalah istri Abraham dan ibu Ishak. Ia mengalami janji Tuhan dengan kelahiran anak di usia tua."
+    },
+    "strengths": {
+      "en": [
+        "faith",
+        "endurance",
+        "loyalty"
+      ],
+      "id": [
+        "iman",
+        "ketekunan",
+        "kesetiaan"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "doubt",
+        "impatience"
+      ],
+      "id": [
+        "keraguan",
+        "ketidaksabaran"
+      ]
+    },
+    "related_character_ids": [
+      "char_abraham",
+      "char_isaac"
+    ]
+  },
+  {
+    "id": "char_blind_man",
+    "name": {
+      "en": "The Blind Man",
+      "id": "Orang Buta"
+    },
+    "testament": "new",
+    "summary": {
+      "en": "The blind man was healed by Jesus and received his sight. His story highlights faith and spiritual understanding.",
+      "id": "Orang buta disembuhkan oleh Yesus dan mendapatkan penglihatannya. Kisahnya menyoroti iman dan pengertian rohani."
+    },
+    "strengths": {
+      "en": [
+        "faith",
+        "persistence",
+        "testimony"
+      ],
+      "id": [
+        "iman",
+        "ketekunan",
+        "kesaksian"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "social limitation",
+        "dependence"
+      ],
+      "id": [
+        "keterbatasan sosial",
+        "ketergantungan"
+      ]
+    },
+    "related_character_ids": [
+      "char_jesus"
+    ]
+  },
+  {
+    "id": "char_paralytic_man",
+    "name": {
+      "en": "The Paralytic Man",
+      "id": "Orang Lumpuh"
+    },
+    "testament": "new",
+    "summary": {
+      "en": "The paralytic man was healed by Jesus after being lowered through a roof by his friends. His healing showed both forgiveness and restoration.",
+      "id": "Orang lumpuh disembuhkan oleh Yesus setelah diturunkan dari atap oleh teman-temannya. Kesembuhannya menunjukkan pengampunan dan pemulihan."
+    },
+    "strengths": {
+      "en": [
+        "faith",
+        "trust",
+        "humility"
+      ],
+      "id": [
+        "iman",
+        "kepercayaan",
+        "kerendahan hati"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "physical limitation",
+        "dependence"
+      ],
+      "id": [
+        "keterbatasan fisik",
+        "ketergantungan"
+      ]
+    },
+    "related_character_ids": [
+      "char_jesus"
+    ]
+  },
+  {
+    "id": "char_lot",
+    "name": {
+      "en": "Lot",
+      "id": "Lot"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "Lot was Abraham's nephew who lived in Sodom. He was rescued by God before the city was destroyed.",
+      "id": "Lot adalah keponakan Abraham yang tinggal di Sodom. Ia diselamatkan oleh Tuhan sebelum kota itu dihancurkan."
+    },
+    "strengths": {
+      "en": [
+        "hospitality",
+        "obedience",
+        "family care"
+      ],
+      "id": [
+        "keramahan",
+        "ketaatan",
+        "peduli keluarga"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "poor judgment",
+        "attachment to city",
+        "compromise"
+      ],
+      "id": [
+        "keputusan buruk",
+        "terikat pada kota",
+        "kompromi"
+      ]
+    },
+    "related_character_ids": [
+      "char_abraham"
+    ]
+  },
+  {
+    "id": "char_job",
+    "name": {
+      "en": "Job",
+      "id": "Ayub"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "Job was a righteous man who endured great suffering but remained faithful to God. His story reflects perseverance and trust.",
+      "id": "Ayub adalah orang benar yang mengalami penderitaan besar namun tetap setia kepada Tuhan. Kisahnya menunjukkan ketekunan dan kepercayaan."
+    },
+    "strengths": {
+      "en": [
+        "faithfulness",
+        "patience",
+        "integrity"
+      ],
+      "id": [
+        "kesetiaan",
+        "kesabaran",
+        "integritas"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "questioning",
+        "despair moments"
+      ],
+      "id": [
+        "mempertanyakan",
+        "momen keputusasaan"
+      ]
+    },
+    "related_character_ids": [
+      "char_god"
+    ]
+  },
+  {
+    "id": "char_good_samaritan",
+    "name": {
+      "en": "Good Samaritan",
+      "id": "Orang Samaria yang Baik"
+    },
+    "testament": "new",
+    "summary": {
+      "en": "The Good Samaritan is a figure in Jesus' parable who showed compassion to a wounded stranger. He represents love beyond boundaries.",
+      "id": "Orang Samaria yang Baik adalah tokoh dalam perumpamaan Yesus yang menunjukkan belas kasih kepada orang asing yang terluka. Ia melambangkan kasih tanpa batas."
+    },
+    "strengths": {
+      "en": [
+        "compassion",
+        "generosity",
+        "kindness"
+      ],
+      "id": [
+        "belas kasih",
+        "kedermawanan",
+        "kebaikan"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "risk-taking",
+        "social rejection"
+      ],
+      "id": [
+        "mengambil risiko",
+        "penolakan sosial"
+      ]
+    },
+    "related_character_ids": [
+      "char_jesus"
+    ]
+  },
+  {
+    "id": "char_israelites",
+    "name": {
+      "en": "Israelites",
+      "id": "Bangsa Israel"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "The Israelites were God's chosen people, often experiencing both guidance and discipline. Their journey reflects faith struggles and covenant.",
+      "id": "Bangsa Israel adalah umat pilihan Tuhan yang sering mengalami bimbingan dan disiplin. Perjalanan mereka mencerminkan pergumulan iman dan perjanjian."
+    },
+    "strengths": {
+      "en": [
+        "community",
+        "heritage",
+        "resilience"
+      ],
+      "id": [
+        "kebersamaan",
+        "warisan iman",
+        "ketahanan"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "disobedience",
+        "complaining",
+        "idolatry"
+      ],
+      "id": [
+        "ketidaktaatan",
+        "bersungut-sungut",
+        "penyembahan berhala"
+      ]
+    },
+    "related_character_ids": [
+      "char_moses",
+      "char_aaron"
+    ]
+  },
+  {
+    "id": "char_joseph_brothers",
+    "name": {
+      "en": "Joseph's Brothers",
+      "id": "Saudara-saudara Yusuf"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "Joseph's brothers were jealous of him and sold him into slavery. Later, they experienced remorse and reconciliation.",
+      "id": "Saudara-saudara Yusuf iri kepadanya dan menjualnya sebagai budak. Kemudian mereka mengalami penyesalan dan pemulihan hubungan."
+    },
+    "strengths": {
+      "en": [
+        "family bond",
+        "eventual repentance"
+      ],
+      "id": [
+        "ikatan keluarga",
+        "pertobatan akhirnya"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "jealousy",
+        "betrayal",
+        "deception"
+      ],
+      "id": [
+        "iri hati",
+        "pengkhianatan",
+        "penipuan"
+      ]
+    },
+    "related_character_ids": [
+      "char_joseph",
+      "char_jacob"
+    ]
+  },
+  {
+    "id": "char_god",
+    "name": {
+      "en": "God",
+      "id": "Tuhan"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "God is the Creator and sovereign ruler of all. He is just, loving, and faithful to His promises.",
+      "id": "Tuhan adalah Pencipta dan penguasa atas segala sesuatu. Ia adil, penuh kasih, dan setia pada janji-Nya."
+    },
+    "strengths": {
+      "en": [
+        "sovereignty",
+        "justice",
+        "love",
+        "faithfulness"
+      ],
+      "id": [
+        "kedaulatan",
+        "keadilan",
+        "kasih",
+        "kesetiaan"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "none"
+      ],
+      "id": [
+        "tidak ada"
+      ]
+    },
+    "related_character_ids": [
+      "char_jesus"
+    ]
+  },
+  {
+    "id": "char_ahab",
+    "name": {
+      "en": "Ahab",
+      "id": "Ahab"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "Ahab was a king of Israel known for leading the nation into idolatry. His reign was marked by conflict with prophets.",
+      "id": "Ahab adalah raja Israel yang dikenal karena membawa bangsa itu ke dalam penyembahan berhala. Pemerintahannya ditandai konflik dengan para nabi."
+    },
+    "strengths": {
+      "en": [
+        "leadership",
+        "political power"
+      ],
+      "id": [
+        "kepemimpinan",
+        "kekuatan politik"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "idolatry",
+        "weak character",
+        "influence by others"
+      ],
+      "id": [
+        "penyembahan berhala",
+        "karakter lemah",
+        "mudah dipengaruhi"
+      ]
+    },
+    "related_character_ids": [
+      "char_elijah",
+      "char_jezebel"
+    ],
+    "life_span": {
+      "en": "c. 900 BC–c. 852 BC",
+      "id": "sekitar 900 SM–sekitar 852 SM"
+    }
+  },
+  {
+    "id": "char_barnabas",
+    "name": {
+      "en": "Barnabas",
+      "id": "Barnabas"
+    },
+    "testament": "new",
+    "summary": {
+      "en": "Barnabas was an early Christian leader known for encouraging others. He supported Paul and helped establish the early church.",
+      "id": "Barnabas adalah pemimpin gereja mula-mula yang dikenal sebagai penguat bagi orang lain. Ia mendukung Paulus dan membantu membangun gereja awal."
+    },
+    "strengths": {
+      "en": [
+        "encouragement",
+        "generosity",
+        "faithfulness"
+      ],
+      "id": [
+        "memberi semangat",
+        "kemurahan hati",
+        "kesetiaan"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "conflict with Paul",
+        "partiality"
+      ],
+      "id": [
+        "konflik dengan Paulus",
+        "memihak"
+      ]
+    },
+    "related_character_ids": [
+      "char_paul",
+      "char_mark"
+    ]
+  },
+  {
+    "id": "char_caleb",
+    "name": {
+      "en": "Caleb",
+      "id": "Kaleb"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "Caleb was one of the spies who trusted God fully. He remained faithful and later received his promised land.",
+      "id": "Kaleb adalah salah satu pengintai yang sepenuhnya percaya kepada Tuhan. Ia tetap setia dan akhirnya menerima tanah perjanjian."
+    },
+    "strengths": {
+      "en": [
+        "faith",
+        "courage",
+        "loyalty"
+      ],
+      "id": [
+        "iman",
+        "keberanian",
+        "kesetiaan"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "minor impatience",
+        "aging limits"
+      ],
+      "id": [
+        "sedikit kurang sabar",
+        "keterbatasan usia"
+      ]
+    },
+    "related_character_ids": [
+      "char_joshua",
+      "char_moses"
+    ]
+  },
+  {
+    "id": "char_elisha",
+    "name": {
+      "en": "Elisha",
+      "id": "Elisa"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "Elisha was a prophet who succeeded Elijah. He performed many miracles and guided Israel during difficult times.",
+      "id": "Elisa adalah nabi yang menggantikan Elia. Ia melakukan banyak mukjizat dan membimbing Israel di masa sulit."
+    },
+    "strengths": {
+      "en": [
+        "faith",
+        "wisdom",
+        "miracles"
+      ],
+      "id": [
+        "iman",
+        "hikmat",
+        "mukjizat"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "severity",
+        "emotional reactions"
+      ],
+      "id": [
+        "ketegasan keras",
+        "reaksi emosional"
+      ]
+    },
+    "related_character_ids": [
+      "char_elijah",
+      "char_naaman"
+    ]
+  },
+  {
+    "id": "char_esau",
+    "name": {
+      "en": "Esau",
+      "id": "Esau"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "Esau was the older twin brother of Jacob. He sold his birthright impulsively and later reconciled with his brother.",
+      "id": "Esau adalah kakak kembar Yakub. Ia menjual hak kesulungannya secara tergesa-gesa dan kemudian berdamai dengan saudaranya."
+    },
+    "strengths": {
+      "en": [
+        "forgiveness",
+        "strength",
+        "honesty"
+      ],
+      "id": [
+        "pengampunan",
+        "kekuatan",
+        "kejujuran"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "impulsiveness",
+        "short-sightedness"
+      ],
+      "id": [
+        "tindakan tergesa-gesa",
+        "tidak berpikir panjang"
+      ]
+    },
+    "related_character_ids": [
+      "char_jacob",
+      "char_isaac"
+    ]
+  },
+  {
+    "id": "char_ham",
+    "name": {
+      "en": "Ham",
+      "id": "Ham"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "Ham was one of Noah's sons who survived the flood. He later acted dishonorably toward his father.",
+      "id": "Ham adalah salah satu anak Nuh yang selamat dari air bah. Ia kemudian bertindak tidak hormat terhadap ayahnya."
+    },
+    "strengths": {
+      "en": [
+        "survivor",
+        "family role"
+      ],
+      "id": [
+        "bertahan hidup",
+        "peran keluarga"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "disrespect",
+        "poor judgment"
+      ],
+      "id": [
+        "tidak hormat",
+        "penilaian buruk"
+      ]
+    },
+    "related_character_ids": [
+      "char_noah",
+      "char_shem",
+      "char_japheth"
+    ]
+  },
+  {
+    "id": "char_japheth",
+    "name": {
+      "en": "Japheth",
+      "id": "Yafet"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "Japheth was one of Noah's sons who showed respect to his father. He was blessed for his actions.",
+      "id": "Yafet adalah salah satu anak Nuh yang menunjukkan rasa hormat kepada ayahnya. Ia menerima berkat atas tindakannya."
+    },
+    "strengths": {
+      "en": [
+        "respect",
+        "obedience",
+        "honor"
+      ],
+      "id": [
+        "hormat",
+        "ketaatan",
+        "kehormatan"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "limited narrative",
+        "passive role"
+      ],
+      "id": [
+        "kisah terbatas",
+        "peran pasif"
+      ]
+    },
+    "related_character_ids": [
+      "char_noah",
+      "char_shem",
+      "char_ham"
+    ]
+  },
+  {
+    "id": "char_jezebel",
+    "name": {
+      "en": "Jezebel",
+      "id": "Izebel"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "Jezebel was a queen of Israel who promoted idol worship. She opposed God's prophets and led many astray.",
+      "id": "Izebel adalah ratu Israel yang mendorong penyembahan berhala. Ia melawan nabi Tuhan dan menyesatkan banyak orang."
+    },
+    "strengths": {
+      "en": [
+        "influence",
+        "determination"
+      ],
+      "id": [
+        "pengaruh",
+        "keteguhan"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "idolatry",
+        "manipulation",
+        "cruelty"
+      ],
+      "id": [
+        "penyembahan berhala",
+        "manipulasi",
+        "kekejaman"
+      ]
+    },
+    "related_character_ids": [
+      "char_ahab",
+      "char_elijah"
+    ]
+  },
+  {
+    "id": "char_midianites",
+    "name": {
+      "en": "Midianites",
+      "id": "Orang Midian"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "The Midianites were a group that oppressed Israel during the time of Gideon. They were eventually defeated by God's intervention.",
+      "id": "Orang Midian adalah kelompok yang menindas Israel pada zaman Gideon. Mereka akhirnya dikalahkan oleh campur tangan Tuhan."
+    },
+    "strengths": {
+      "en": [
+        "numbers",
+        "mobility",
+        "organization"
+      ],
+      "id": [
+        "jumlah besar",
+        "mobilitas",
+        "organisasi"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "fear",
+        "instability",
+        "overconfidence"
+      ],
+      "id": [
+        "ketakutan",
+        "tidak stabil",
+        "terlalu percaya diri"
+      ]
+    },
+    "related_character_ids": [
+      "char_gideon"
+    ]
+  },
+  {
+    "id": "char_samuel",
+    "name": {
+      "en": "Samuel",
+      "id": "Samuel"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "Samuel was a prophet and judge who led Israel and anointed its first kings. He faithfully listened to God's voice.",
+      "id": "Samuel adalah nabi dan hakim yang memimpin Israel serta mengurapi raja-raja pertama. Ia setia mendengarkan suara Tuhan."
+    },
+    "strengths": {
+      "en": [
+        "faithfulness",
+        "leadership",
+        "discernment"
+      ],
+      "id": [
+        "kesetiaan",
+        "kepemimpinan",
+        "ketajaman rohani"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "family issues",
+        "emotional burden"
+      ],
+      "id": [
+        "masalah keluarga",
+        "beban emosional"
+      ]
+    },
+    "related_character_ids": [
+      "char_saul",
+      "char_david"
+    ]
+  },
+  {
+    "id": "char_shem",
+    "name": {
+      "en": "Shem",
+      "id": "Sem"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "Shem was one of Noah's sons who honored his father. He became an ancestor of many nations, including Israel.",
+      "id": "Sem adalah salah satu anak Nuh yang menghormati ayahnya. Ia menjadi nenek moyang banyak bangsa termasuk Israel."
+    },
+    "strengths": {
+      "en": [
+        "respect",
+        "obedience",
+        "legacy"
+      ],
+      "id": [
+        "hormat",
+        "ketaatan",
+        "warisan"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "limited narrative",
+        "passive role"
+      ],
+      "id": [
+        "kisah terbatas",
+        "peran pasif"
+      ]
+    },
+    "related_character_ids": [
+      "char_noah",
+      "char_ham",
+      "char_japheth"
+    ]
+  },
+  {
+    "id": "char_mark",
+    "name": {
+      "en": "Mark",
+      "id": "Markus"
+    },
+    "testament": "new",
+    "summary": {
+      "en": "Mark was a follower of Jesus and the author of the Gospel of Mark. He worked closely with Peter and Paul in early Christian ministry.",
+      "id": "Markus adalah pengikut Yesus dan penulis Injil Markus. Ia bekerja dekat dengan Petrus dan Paulus dalam pelayanan gereja mula-mula."
+    },
+    "strengths": {
+      "en": [
+        "writing",
+        "faithfulness",
+        "adaptability"
+      ],
+      "id": [
+        "menulis",
+        "kesetiaan",
+        "kemampuan beradaptasi"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "early inconsistency",
+        "fear",
+        "inexperience"
+      ],
+      "id": [
+        "ketidakkonsistenan awal",
+        "ketakutan",
+        "kurang pengalaman"
+      ]
+    },
+    "related_character_ids": [
+      "char_peter",
+      "char_paul",
+      "char_barnabas"
+    ],
+    "life_span": {
+      "en": "c. AD 12–c. AD 68",
+      "id": "sekitar 12 M–sekitar 68 M"
+    }
+  },
+  {
+    "id": "char_naaman",
+    "name": {
+      "en": "Naaman",
+      "id": "Naaman"
+    },
+    "testament": "old",
+    "summary": {
+      "en": "Naaman was a commander of the Syrian army who suffered from leprosy. He was healed after humbly following the prophet Elisha's instructions.",
+      "id": "Naaman adalah panglima tentara Aram yang menderita kusta. Ia disembuhkan setelah dengan rendah hati mengikuti perintah nabi Elisa."
+    },
+    "strengths": {
+      "en": [
+        "leadership",
+        "courage",
+        "openness"
+      ],
+      "id": [
+        "kepemimpinan",
+        "keberanian",
+        "keterbukaan"
+      ]
+    },
+    "weaknesses": {
+      "en": [
+        "pride",
+        "initial doubt",
+        "anger"
+      ],
+      "id": [
+        "kesombongan",
+        "keraguan awal",
+        "kemarahan"
+      ]
+    },
+    "related_character_ids": [
+      "char_elisha"
+    ]
+  }
+]

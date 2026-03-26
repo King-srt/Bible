@@ -1,0 +1,303 @@
+[
+  {
+    "id": "genealogy_jesus",
+    "title": {
+      "en": "Genealogy of Jesus",
+      "id": "Silsilah Yesus"
+    },
+    "description": {
+      "en": "A simplified lineage based on Matthew 1, beginning with Abraham and ending with Jesus.",
+      "id": "Silsilah sederhana berdasarkan Matius 1, dimulai dari Abraham dan berakhir pada Yesus."
+    },
+    "root_character_id": "char_jesus",
+    "entries": [
+      {
+        "label": {
+          "en": "Abraham",
+          "id": "Abraham"
+        },
+        "character_id": "char_abraham"
+      },
+      {
+        "label": {
+          "en": "Isaac",
+          "id": "Ishak"
+        },
+        "character_id": "char_isaac"
+      },
+      {
+        "label": {
+          "en": "Jacob",
+          "id": "Yakub"
+        },
+        "character_id": "char_jacob"
+      },
+      {
+        "label": {
+          "en": "Judah",
+          "id": "Yehuda"
+        },
+        "character_id": "char_judah"
+      },
+      {
+        "label": {
+          "en": "Perez",
+          "id": "Peres"
+        },
+        "character_id": ""
+      },
+      {
+        "label": {
+          "en": "Hezron",
+          "id": "Hezron"
+        },
+        "character_id": ""
+      },
+      {
+        "label": {
+          "en": "Ram",
+          "id": "Ram"
+        },
+        "character_id": ""
+      },
+      {
+        "label": {
+          "en": "Amminadab",
+          "id": "Aminadab"
+        },
+        "character_id": ""
+      },
+      {
+        "label": {
+          "en": "Nahshon",
+          "id": "Nahason"
+        },
+        "character_id": ""
+      },
+      {
+        "label": {
+          "en": "Salmon",
+          "id": "Salmon"
+        },
+        "character_id": ""
+      },
+      {
+        "label": {
+          "en": "Boaz",
+          "id": "Boas"
+        },
+        "character_id": "char_boaz"
+      },
+      {
+        "label": {
+          "en": "Obed",
+          "id": "Obed"
+        },
+        "character_id": ""
+      },
+      {
+        "label": {
+          "en": "Jesse",
+          "id": "Isai"
+        },
+        "character_id": "char_jesse"
+      },
+      {
+        "label": {
+          "en": "David",
+          "id": "Daud"
+        },
+        "character_id": "char_david"
+      },
+      {
+        "label": {
+          "en": "Solomon",
+          "id": "Salomo"
+        },
+        "character_id": "char_solomon"
+      },
+      {
+        "label": {
+          "en": "Rehoboam",
+          "id": "Rehabeam"
+        },
+        "character_id": ""
+      },
+      {
+        "label": {
+          "en": "Abijah",
+          "id": "Abia"
+        },
+        "character_id": ""
+      },
+      {
+        "label": {
+          "en": "Asa",
+          "id": "Asa"
+        },
+        "character_id": "char_asa"
+      },
+      {
+        "label": {
+          "en": "Jehoshaphat",
+          "id": "Yosafat"
+        },
+        "character_id": "char_jehoshaphat"
+      },
+      {
+        "label": {
+          "en": "Joram",
+          "id": "Yoram"
+        },
+        "character_id": ""
+      },
+      {
+        "label": {
+          "en": "Uzziah",
+          "id": "Uzia"
+        },
+        "character_id": "char_uzziah"
+      },
+      {
+        "label": {
+          "en": "Jotham",
+          "id": "Yotam"
+        },
+        "character_id": ""
+      },
+      {
+        "label": {
+          "en": "Ahaz",
+          "id": "Ahas"
+        },
+        "character_id": "char_ahaz"
+      },
+      {
+        "label": {
+          "en": "Hezekiah",
+          "id": "Hizkia"
+        },
+        "character_id": "char_hezekiah"
+      },
+      {
+        "label": {
+          "en": "Manasseh",
+          "id": "Manasye"
+        },
+        "character_id": "char_manasseh"
+      },
+      {
+        "label": {
+          "en": "Amon",
+          "id": "Amon"
+        },
+        "character_id": ""
+      },
+      {
+        "label": {
+          "en": "Josiah",
+          "id": "Yosia"
+        },
+        "character_id": "char_josiah"
+      },
+      {
+        "label": {
+          "en": "Jeconiah",
+          "id": "Yekhonya"
+        },
+        "character_id": ""
+      },
+      {
+        "label": {
+          "en": "Shealtiel",
+          "id": "Sealtiel"
+        },
+        "character_id": ""
+      },
+      {
+        "label": {
+          "en": "Zerubbabel",
+          "id": "Zerubabel"
+        },
+        "character_id": "char_zerubbabel"
+      },
+      {
+        "label": {
+          "en": "Abiud",
+          "id": "Abiud"
+        },
+        "character_id": ""
+      },
+      {
+        "label": {
+          "en": "Eliakim",
+          "id": "Eliakim"
+        },
+        "character_id": ""
+      },
+      {
+        "label": {
+          "en": "Azor",
+          "id": "Azor"
+        },
+        "character_id": ""
+      },
+      {
+        "label": {
+          "en": "Zadok",
+          "id": "Zadok"
+        },
+        "character_id": ""
+      },
+      {
+        "label": {
+          "en": "Achim",
+          "id": "Akhim"
+        },
+        "character_id": ""
+      },
+      {
+        "label": {
+          "en": "Eliud",
+          "id": "Eliud"
+        },
+        "character_id": ""
+      },
+      {
+        "label": {
+          "en": "Eleazar",
+          "id": "Eleazar"
+        },
+        "character_id": ""
+      },
+      {
+        "label": {
+          "en": "Matthan",
+          "id": "Matan"
+        },
+        "character_id": ""
+      },
+      {
+        "label": {
+          "en": "Jacob",
+          "id": "Yakub"
+        },
+        "character_id": ""
+      },
+      {
+        "label": {
+          "en": "Joseph",
+          "id": "Yusuf"
+        },
+        "character_id": ""
+      },
+      {
+        "label": {
+          "en": "Jesus",
+          "id": "Yesus"
+        },
+        "character_id": "char_jesus"
+      }
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+name: bible_story_app
+description: Bible Story App - Flutter + Firebase Firestore
+publish_to: "none"
+version: 0.9.0+1
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: 0.20.2
+  flutter_riverpod: ^2.5.1
+  firebase_core: ^3.4.0
+  firebase_auth: ^5.3.1
+  cloud_firestore: ^5.4.0
+  shared_preferences: ^2.3.2
+  go_router: ^14.2.7
+  http: ^1.2.2
+  googleapis_auth: ^1.6.0
+  flutter_native_splash: ^2.4.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter_native_splash:
+  color: "#F6F1E8"
+  color_dark: "#F6F1E8"
+  android: true
+  ios: false
+  web: false
+  android_12:
+    color: "#F6F1E8"
+    icon_background_color: "#F6F1E8"
+
+flutter:
+  uses-material-design: true
+  generate: true
+  assets:
+    - pictures/
+    - firestore_seed/stories.json
+    - firestore_seed/characters.json
+    - firestore_seed/content_meta.json
+    - firestore_seed/genealogies.json

@@ -1,0 +1,332 @@
+[
+  {
+    "id": "story_jesus_feeds_5000",
+    "scripture_references": {
+      "en": [
+        "Matthew 14:13-21",
+        "Mark 6:30-44",
+        "Luke 9:10-17",
+        "John 6:1-15"
+      ],
+      "id": [
+        "Matius 14:13-21",
+        "Markus 6:30-44",
+        "Lukas 9:10-17",
+        "Yohanes 6:1-15"
+      ]
+    }
+  },
+  {
+    "id": "story_david_goliath",
+    "scripture_references": {
+      "en": ["1 Samuel 17:1-58"],
+      "id": ["1 Samuel 17:1-58"]
+    }
+  },
+  {
+    "id": "story_daniel_lions",
+    "scripture_references": {
+      "en": ["Daniel 6:1-28"],
+      "id": ["Daniel 6:1-28"]
+    }
+  },
+  {
+    "id": "story_paul_conversion",
+    "scripture_references": {
+      "en": ["Acts 9:1-19"],
+      "id": ["Kisah Para Rasul 9:1-19"]
+    }
+  },
+  {
+    "id": "story_noah_ark",
+    "scripture_references": {
+      "en": ["Genesis 6:9-9:17"],
+      "id": ["Kejadian 6:9-9:17"]
+    }
+  },
+  {
+    "id": "story_tower_of_babel",
+    "scripture_references": {
+      "en": ["Genesis 11:1-9"],
+      "id": ["Kejadian 11:1-9"]
+    }
+  },
+  {
+    "id": "story_abrahams_call",
+    "scripture_references": {
+      "en": ["Genesis 12:1-9"],
+      "id": ["Kejadian 12:1-9"]
+    }
+  },
+  {
+    "id": "story_abraham_and_isaac",
+    "scripture_references": {
+      "en": ["Genesis 22:1-19"],
+      "id": ["Kejadian 22:1-19"]
+    }
+  },
+  {
+    "id": "story_moses_and_the_burning_bush",
+    "scripture_references": {
+      "en": ["Exodus 3:1-4:17"],
+      "id": ["Keluaran 3:1-4:17"]
+    }
+  },
+  {
+    "id": "story_ten_plagues_of_egypt",
+    "scripture_references": {
+      "en": ["Exodus 7:14-12:30"],
+      "id": ["Keluaran 7:14-12:30"]
+    }
+  },
+  {
+    "id": "story_crossing_the_red_sea",
+    "scripture_references": {
+      "en": ["Exodus 13:17-14:31"],
+      "id": ["Keluaran 13:17-14:31"]
+    }
+  },
+  {
+    "id": "story_manna_in_the_wilderness",
+    "scripture_references": {
+      "en": ["Exodus 16:1-36"],
+      "id": ["Keluaran 16:1-36"]
+    }
+  },
+  {
+    "id": "story_ten_commandments",
+    "scripture_references": {
+      "en": ["Exodus 20:1-17"],
+      "id": ["Keluaran 20:1-17"]
+    }
+  },
+  {
+    "id": "story_jobs_suffering_and_faith",
+    "scripture_references": {
+      "en": [
+        "Job 1:1-2:13",
+        "Job 42:7-17"
+      ],
+      "id": [
+        "Ayub 1:1-2:13",
+        "Ayub 42:7-17"
+      ]
+    }
+  },
+  {
+    "id": "story_joseph_sold_by_his_brothers",
+    "scripture_references": {
+      "en": ["Genesis 37:12-36"],
+      "id": ["Kejadian 37:12-36"]
+    }
+  },
+  {
+    "id": "story_joseph_becomes_ruler_in_egypt",
+    "scripture_references": {
+      "en": ["Genesis 41:1-57"],
+      "id": ["Kejadian 41:1-57"]
+    }
+  },
+  {
+    "id": "story_joshua_and_jericho",
+    "scripture_references": {
+      "en": ["Joshua 6:1-27"],
+      "id": ["Yosua 6:1-27"]
+    }
+  },
+  {
+    "id": "story_gideon_and_the_300",
+    "scripture_references": {
+      "en": ["Judges 7:1-25"],
+      "id": ["Hakim-hakim 7:1-25"]
+    }
+  },
+  {
+    "id": "story_david_and_saul",
+    "scripture_references": {
+      "en": ["1 Samuel 18:1-26:25"],
+      "id": ["1 Samuel 18:1-26:25"]
+    }
+  },
+  {
+    "id": "story_elijah_and_the_prophets_of_baal",
+    "scripture_references": {
+      "en": ["1 Kings 18:16-40"],
+      "id": ["1 Raja-raja 18:16-40"]
+    }
+  },
+  {
+    "id": "story_shadrach_meshach_abednego",
+    "scripture_references": {
+      "en": ["Daniel 3:1-30"],
+      "id": ["Daniel 3:1-30"]
+    }
+  },
+  {
+    "id": "story_jesus_turns_water_into_wine",
+    "scripture_references": {
+      "en": ["John 2:1-11"],
+      "id": ["Yohanes 2:1-11"]
+    }
+  },
+  {
+    "id": "story_jesus_heals_the_blind_man",
+    "scripture_references": {
+      "en": [
+        "Matthew 20:29-34",
+        "Mark 10:46-52",
+        "Luke 18:35-43"
+      ],
+      "id": [
+        "Matius 20:29-34",
+        "Markus 10:46-52",
+        "Lukas 18:35-43"
+      ]
+    }
+  },
+  {
+    "id": "story_jesus_heals_the_paralytic",
+    "scripture_references": {
+      "en": [
+        "Matthew 9:1-8",
+        "Mark 2:1-12",
+        "Luke 5:17-26"
+      ],
+      "id": [
+        "Matius 9:1-8",
+        "Markus 2:1-12",
+        "Lukas 5:17-26"
+      ]
+    }
+  },
+  {
+    "id": "story_jesus_calms_the_storm",
+    "scripture_references": {
+      "en": [
+        "Matthew 8:23-27",
+        "Mark 4:35-41",
+        "Luke 8:22-25"
+      ],
+      "id": [
+        "Matius 8:23-27",
+        "Markus 4:35-41",
+        "Lukas 8:22-25"
+      ]
+    }
+  },
+  {
+    "id": "story_jesus_walks_on_water",
+    "scripture_references": {
+      "en": [
+        "Matthew 14:22-33",
+        "Mark 6:45-52",
+        "John 6:16-21"
+      ],
+      "id": [
+        "Matius 14:22-33",
+        "Markus 6:45-52",
+        "Yohanes 6:16-21"
+      ]
+    }
+  },
+  {
+    "id": "story_raising_lazarus",
+    "scripture_references": {
+      "en": ["John 11:1-44"],
+      "id": ["Yohanes 11:1-44"]
+    }
+  },
+  {
+    "id": "story_the_good_samaritan",
+    "scripture_references": {
+      "en": ["Luke 10:25-37"],
+      "id": ["Lukas 10:25-37"]
+    }
+  },
+  {
+    "id": "story_the_lost_sheep",
+    "scripture_references": {
+      "en": [
+        "Matthew 18:10-14",
+        "Luke 15:1-7"
+      ],
+      "id": [
+        "Matius 18:10-14",
+        "Lukas 15:1-7"
+      ]
+    }
+  },
+  {
+    "id": "story_jesus_and_samaritan_woman",
+    "scripture_references": {
+      "en": ["John 4:1-42"],
+      "id": ["Yohanes 4:1-42"]
+    }
+  },
+  {
+    "id": "story_the_last_supper",
+    "scripture_references": {
+      "en": [
+        "Matthew 26:17-30",
+        "Mark 14:12-26",
+        "Luke 22:7-38",
+        "John 13:1-38"
+      ],
+      "id": [
+        "Matius 26:17-30",
+        "Markus 14:12-26",
+        "Lukas 22:7-38",
+        "Yohanes 13:1-38"
+      ]
+    }
+  },
+  {
+    "id": "story_jesus_prays_in_gethsemane",
+    "scripture_references": {
+      "en": [
+        "Matthew 26:36-46",
+        "Mark 14:32-42",
+        "Luke 22:39-46"
+      ],
+      "id": [
+        "Matius 26:36-46",
+        "Markus 14:32-42",
+        "Lukas 22:39-46"
+      ]
+    }
+  },
+  {
+    "id": "story_the_crucifixion",
+    "scripture_references": {
+      "en": [
+        "Matthew 27:32-56",
+        "Mark 15:21-41",
+        "Luke 23:26-49",
+        "John 19:16-37"
+      ],
+      "id": [
+        "Matius 27:32-56",
+        "Markus 15:21-41",
+        "Lukas 23:26-49",
+        "Yohanes 19:16-37"
+      ]
+    }
+  },
+  {
+    "id": "story_the_resurrection",
+    "scripture_references": {
+      "en": [
+        "Matthew 28:1-15",
+        "Mark 16:1-8",
+        "Luke 24:1-12",
+        "John 20:1-18"
+      ],
+      "id": [
+        "Matius 28:1-15",
+        "Markus 16:1-8",
+        "Lukas 24:1-12",
+        "Yohanes 20:1-18"
+      ]
+    }
+  }
+]

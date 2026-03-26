@@ -1,0 +1,56 @@
+[
+  {
+    // `id`: unique character id.
+    // Use stable snake_case and keep the `char_` prefix.
+    // This id is reused for Firestore doc id and image naming.
+    "id": "char_example_name",
+
+    // `name`: localized character name.
+    "name": {
+      "en": "Example Name",
+      "id": "Nama Contoh"
+    },
+
+    // `testament`: only `old` or `new`.
+    "testament": "old",
+
+    // `identity`: short identity/role line for the character.
+    // Example: prophet, king, disciple, patriarch.
+    "identity": {
+      "en": "Prophet of Israel",
+      "id": "Nabi Israel"
+    },
+
+    // `life_span`: approximate lifetime or era range.
+    // Keep it flexible and human-readable.
+    "life_span": {
+      "en": "c. 650-570 BC",
+      "id": "sekitar 650-570 SM"
+    },
+
+    // `summary`: short character overview in both languages.
+    // Keep this compact, usually 1-3 sentences.
+    "summary": {
+      "en": "A short English summary of the character.",
+      "id": "Ringkasan singkat tokoh dalam Bahasa Indonesia."
+    },
+
+    // `strengths`: key positive traits or notable strengths.
+    // Keep them short, not full sentences.
+    "strengths": {
+      "en": ["Faith", "Wisdom"],
+      "id": ["Iman", "Hikmat"]
+    },
+
+    // `weaknesses`: limitations, failures, or moral struggles.
+    // Keep them short and balanced.
+    "weaknesses": {
+      "en": ["Fear", "Impulsiveness"],
+      "id": ["Ketakutan", "Tergesa-gesa"]
+    },
+
+    // `related_character_ids`: characters often connected to this one.
+    // These ids should also exist in `characters.json`.
+    "related_character_ids": ["char_other_example"]
+  }
+]

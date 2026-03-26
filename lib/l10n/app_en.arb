@@ -1,0 +1,82 @@
+{
+  "@@locale": "en",
+  "appTitle": "Bible Story App",
+  "homeFeatured": "Featured Story",
+  "homeOldTestament": "Old Testament",
+  "homeNewTestament": "New Testament",
+  "homeCharacterHighlight": "Character Highlight",
+  "homeWelcomeTitle": "Discover stories that stay with you.",
+  "homeWelcomeSubtitle": "Read, explore characters, and switch seamlessly between English and Indonesian.",
+  "homeQuickActions": "Quick Explore",
+  "homeActionOld": "Old Testament",
+  "homeActionNew": "New Testament",
+  "homeHeroEyebrow": "Story Mode",
+  "homeReadNow": "Read Now",
+  "homeExploreCharacter": "Explore Character",
+  "storyListTitleOld": "Old Testament Stories",
+  "storyListTitleNew": "New Testament Stories",
+  "characterListTitle": "Characters",
+  "bookmarksTitle": "Bookmarks",
+  "bookmarksEmpty": "No bookmarked stories yet.",
+  "bookmarksSavedCount": "{count} saved stories",
+  "@bookmarksSavedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "characterProfilesCount": "{count} profiles ready to explore",
+  "@characterProfilesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "navHome": "Home",
+  "navCharacters": "Characters",
+  "navBookmarks": "Bookmarks",
+  "navSettings": "Settings",
+  "searchTitle": "Search",
+  "searchHint": "Search stories or characters",
+  "searchEmptyQuery": "Type a keyword to start searching.",
+  "searchStories": "Stories",
+  "searchCharacters": "Characters",
+  "searchNoStories": "No matching stories found.",
+  "searchNoCharacters": "No matching characters found.",
+  "storyDetailRelatedCharacters": "Related Characters",
+  "characterDetailStrengths": "Strengths",
+  "characterDetailWeaknesses": "Weaknesses",
+  "characterDetailRelatedStories": "Related Stories",
+  "storyDetailBookmarkAdd": "Add Bookmark",
+  "storyDetailBookmarkRemove": "Remove Bookmark",
+  "settingsTitle": "Settings",
+  "languageLabel": "Language",
+  "languageEnglish": "English",
+  "languageIndonesian": "Indonesian",
+  "loading": "Loading...",
+  "storiesEmpty": "No stories available yet.",
+  "charactersEmpty": "No characters available yet.",
+  "viewAll": "View All",
+  "genericErrorTitle": "Something went wrong",
+  "genericErrorMessage": "We could not load this content right now. Please try again.",
+  "retryLabel": "Try Again",
+  "authPreparingSession": "Preparing your session...",
+  "authFailedMessage": "Authentication could not be prepared right now.",
+  "contentPreparingLibrary": "Preparing your library...",
+  "contentFailedMessage": "The app could not prepare local content right now.",
+  "settingsSubtitle": "Manage language, content sync, and app information.",
+  "settingsPreferences": "Preferences",
+  "settingsContent": "Content",
+  "settingsAbout": "About",
+  "settingsRefreshContent": "Refresh Content",
+  "settingsRefreshContentSubtitle": "Check Firestore for updated stories and characters.",
+  "settingsRefreshUpdated": "Content refreshed successfully.",
+  "settingsRefreshUpToDate": "Your content is already up to date.",
+  "settingsStoriesVersion": "Stories Version",
+  "settingsCharactersVersion": "Characters Version",
+  "storyDetailScriptureReferences": "Scripture References",
+  "characterDetailViewGenealogy": "View Genealogy",
+  "genealogyEmpty": "No genealogy available yet."
+}

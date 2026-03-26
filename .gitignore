@@ -1,0 +1,43 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.iml
+.vscode/
+.idea/
+
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+build/
+coverage/
+pictures/
+
+# Android / Gradle
+.gradle/
+.cxx/
+.externalNativeBuild/
+local.properties
+captures/
+
+# Generated / temporary
+*.log
+*.tmp
+*.temp
+
+# Firebase admin keys
+*.firebase-adminsdk-*.json
+*firebase-adminsdk*.json
+service-account*.json
+
+# Content working files
+firestore_seed/*_temp.json
+firestore_seed/*_merged.json
+
+# Optional local helper outputs
+pictures/crop/__pycache__/
+__pycache__/

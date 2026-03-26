@@ -1,0 +1,401 @@
+[
+{
+"id": "char_jesus",
+"life_span": {
+"en": "c. 4 BC–c. AD 30",
+"id": "sekitar 4 SM–sekitar 30 M"
+}
+},
+{
+"id": "char_peter",
+"life_span": {
+"en": "c. AD 1–c. AD 64",
+"id": "sekitar 1 M–sekitar 64 M"
+}
+},
+{
+"id": "char_david",
+"life_span": {
+"en": "c. 1040 BC–c. 970 BC",
+"id": "sekitar 1040 SM–sekitar 970 SM"
+}
+},
+{
+"id": "char_goliath",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_daniel",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_saul",
+"life_span": {
+"en": "c. 1079 BC–c. 1007 BC",
+"id": "sekitar 1079 SM–sekitar 1007 SM"
+}
+},
+{
+"id": "char_paul",
+"life_span": {
+"en": "c. AD 5–c. AD 64",
+"id": "sekitar 5 M–sekitar 64 M"
+}
+},
+{
+"id": "char_noah",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_people_of_babel",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_moses",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_aaron",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_pharaoh",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_abraham",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_jacob",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_joseph",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_joshua",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_gideon",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_isaac",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_elijah",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_shadrach",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_meshach",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_abednego",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_nebuchadnezzar",
+"life_span": {
+"en": "c. 634 BC–c. 562 BC",
+"id": "sekitar 634 SM–sekitar 562 SM"
+}
+},
+{
+"id": "char_lazarus",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_mary",
+"life_span": {
+"en": "c. 18 BC–c. AD 41",
+"id": "sekitar 18 SM–sekitar 41 M"
+}
+},
+{
+"id": "char_martha",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_john",
+"life_span": {
+"en": "c. AD 6–c. AD 100",
+"id": "sekitar 6 M–sekitar 100 M"
+}
+},
+{
+"id": "char_judas_iscariot",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_james",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_mary_magdalene",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_disciples",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_king_darius",
+"life_span": {
+"en": "c. 550 BC–486 BC",
+"id": "sekitar 550 SM–486 SM"
+}
+},
+{
+"id": "char_ananias",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_pilate",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_samaritan_woman",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_sarah",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_blind_man",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_paralytic_man",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_lot",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_job",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_good_samaritan",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_israelites",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_joseph_brothers",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_god",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_ahab",
+"life_span": {
+"en": "c. 900 BC–c. 852 BC",
+"id": "sekitar 900 SM–sekitar 852 SM"
+}
+},
+{
+"id": "char_barnabas",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_caleb",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_elisha",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_esau",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_ham",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_japheth",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_jezebel",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_midianites",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_samuel",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_shem",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+},
+{
+"id": "char_mark",
+"life_span": {
+"en": "c. AD 12–c. AD 68",
+"id": "sekitar 12 M–sekitar 68 M"
+}
+},
+{
+"id": "char_naaman",
+"life_span": {
+"en": "Unknown",
+"id": "Tidak diketahui"
+}
+}
+]
